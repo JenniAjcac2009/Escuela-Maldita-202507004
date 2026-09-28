@@ -1,8 +1,7 @@
 # Escuela-Maldita-202507004
 Programador-junior-Jennifer Ajcac
-
 # Fase 1 (análisis del videojuego)
-En esta fase se realizo un análisis de como quisiéramos el juego, de cuantos jugadores, que características tendría y una historia (o trama) de lo que trataría el juego
+Los jugadores están atrapados en una antigua escuela abandonada donde ay situaciones sobrenaturales, donde tiene que recorrer diferentes salones, resolver preguntas y acertijos de distintas materias como, matemáticas, inglés y cultura general, deberán encontrar llaves y evitar que el fantasma (él profesor) los atrape, por cada respuesta incorrecta el fantasma se acercara o también si se les acaba el tiempo en cada pregunta y si responden correctamente avanzaran más hacia la salida.
 # Fase 2 (Diagrama de flujo)
 En esta fase se realizo un diagrama de flujo de como seria el paso a paso para nuestro, el inicio, el menú, los niveles, si se puede reiniciar el nivel o salir de este
 # Fase 3 (Código del videojuego)
